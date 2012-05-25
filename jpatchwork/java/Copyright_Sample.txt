@@ -1,0 +1,9 @@
+The sample.jar Java code used is from https://eyeasme.com/Shayne/XHTML/appletObject.html.
+
+Copyright ©2011 Shayne Steele
+shayne.steele@eyeasme.com
+
+Licensed under the LGPLv3.
+
+
+(Btw: the general implementation details of embedding Java applets are described on Shayne Steele's site, too.)

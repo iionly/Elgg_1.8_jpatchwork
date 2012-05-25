@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>JPatchwork</name>
+	<author>iionly</author>
+	<version>1.0</version>
+	<description>This is a proof-of-concept implementation of embedding Java applets in Elgg. It includes a sample applet and game.</description>
+	<website>http://www.elgg.org/</website>
+	<copyright>(C) iionly 2012</copyright>
+	<license>GNU General Public License version 2</license>
+	<requires>
+		<type>elgg_release</type>
+		<version>1.8</version>
+	</requires>
+	<category>games</category>
+</plugin_manifest>
